@@ -1,4 +1,4 @@
-### Checkout the code working live at my Shiny App
+### Checkout the plotly adaptation working on ggradar live at my Shiny App
 
 https://enzo-migliano.shinyapps.io/volleynaia/
 
