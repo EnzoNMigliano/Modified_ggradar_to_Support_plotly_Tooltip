@@ -4,7 +4,7 @@ https://enzo-migliano.shinyapps.io/volleynaia/
 
 The ggradar is under the "Comparative" tab
 
-### Most of the code posted in the folder "scr" comes from @ricardo-bion. Please, follow the link below for the ggradar source code:
+### Most of the code posted in the folder "scr" comes from @ricardo-bion. Please, follow the link below for the ggradar original repository:
 
 https://github.com/ricardo-bion/ggradar
 
