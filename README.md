@@ -17,7 +17,7 @@ A. At the ggrardar source code
 
 2.  Find the "plotly.tooltip" close to the code where we create the geom_point (i.e.,base <- base + geom_point)
 
-3. Customize the argument "text =" from geom_point() as you woul for a regular ggplot that you wish to transform in a plotly
+3. Customize the argument "text =" from geom_point() as you would for a regular ggplot that you wish to transform in a plotly
 
 
 B. When calling the ggradar function
